@@ -1,0 +1,145 @@
+.main-container {
+  width: 100%;
+  height: 600px;
+  border-radius: 40px;
+  display: flex;
+  gap: 35px;
+  justify-content: center;
+  margin: auto;
+}
+
+.inner-container {
+  height: 450px;
+  width: 300px;
+  position: relative;
+  top: 95px;
+  border-radius: 15px;
+  box-shadow: 10px 10px 30px lightgrey;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 13px;
+}
+
+.card-image {
+  height: 35px;
+  width: 35px;
+  border-radius: 20px;
+  position: relative;
+  left: 20px;
+  top: 23px;
+}
+
+h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  padding-left: 15px;
+  padding-left: 20px;
+  top: 10px;
+  position: relative;
+  top: 20px;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  padding-left: 15px;
+  color: grey;
+  position: relative;
+  top: 14px;
+  left: 7px;
+}
+
+.content {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  padding-left: 15px;
+  font-weight: 500;
+  position: relative;
+  left: 45px;
+  top: -20px;
+}
+
+.con {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  padding-left: 15px;
+  color: grey;
+  position: relative;
+  left: 47px;
+  top: -22px;
+}
+
+button {
+  color: white;
+  background-color: rgb(37, 175, 230);
+  font-family: "Poppins", sans-serif;
+  border: none;
+  border-radius: 12px;
+  width: 115px;
+  position: relative;
+  left: 20px;
+  top: 20px;
+}
+
+.card-image2 {
+  height: 35px;
+  width: 35px;
+  border-radius: 20px;
+  position: relative;
+  left: 20px;
+  top: 67px;
+}
+
+.content1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  padding-left: 15px;
+  font-weight: 500;
+  position: relative;
+  left: 45px;
+  top: -20px;
+  top: 24px;
+}
+
+.con1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  padding-left: 15px;
+  color: grey;
+  position: relative;
+  left: 47px;
+  top: -22px;
+  top: 23px;
+}
+
+.button1 {
+  color: white;
+  background-color: rgb(37, 175, 230);
+  font-family: "Poppins", sans-serif;
+  border: none;
+  border-radius: 12px;
+  width: 115px;
+  position: relative;
+  left: 20px;
+  top: 20px;
+  background-color: rgb(110, 77, 254);
+  width: 85px;
+}
+
+.button2 {
+  color: white;
+  background-color: rgb(37, 175, 230);
+  font-family: "Poppins", sans-serif;
+  border: none;
+  border-radius: 12px;
+  width: 115px;
+  position: relative;
+  left: 20px;
+  top: 20px;
+  background-color: palevioletred;
+  width: 70px;
+}/*# sourceMappingURL=web.css.map */

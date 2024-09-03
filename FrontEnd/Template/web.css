@@ -316,6 +316,7 @@ p {
     margin-top: -60px;
     background-color: #1D2547;
     display: flex;
+    position: relative;
 
 }
 
@@ -412,6 +413,18 @@ p {
     font-weight: 300;
     left: 62px;
 }
-li:hover{
-    color: rgb(192, 140, 241);;
+
+li:hover {
+    color: rgb(192, 140, 241);
+    ;
+}
+
+.footer-bottom {
+    position: absolute;
+    left: 325px;
+    font-family: "Poppins",
+        sans-serif;
+    color: #C2C5DB;
+    bottom: 60px;
+    font-size: 15px;
 }

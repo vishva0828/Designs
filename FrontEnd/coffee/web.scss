@@ -445,6 +445,15 @@ textarea:focus {
     font-weight: 500;
     left: 35px;
 }
+.diss{
+    color: #c49b63;
+        font-family: "Great Vibes", cursive;
+        font-size: 50px;
+        top: 182px;
+        position: relative;
+        font-weight: 500;
+        left: 513px;
+}
 
 h2 {
     color: white;
@@ -454,8 +463,27 @@ h2 {
     left: 35px;
     font-size: 43px;
 }
+h1{
+color: white;
+    font-family: "Josefin Sans", sans-serif;
+    position: relative;
+    top: 121px;
+    left: 417px;
+    font-size: 43px;
+}
+
 
 .our-content {
+    font-family: "Poppins", sans-serif;
+    color: gray;
+    text-align: left;
+    padding: 29px;
+    font-size: 16px;
+    position: relative;
+    top: -42px;
+    left: 10px;
+}
+.our-contentt {
     font-family: "Poppins", sans-serif;
     color: gray;
     text-align: left;
